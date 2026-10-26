@@ -1,7 +1,7 @@
 # File2test
 **Writting this md file** 
-1. - Test in this md line
+1. Test in this md line
   
-   ```c++
+```c++
 For(int i = 1)
 ```
